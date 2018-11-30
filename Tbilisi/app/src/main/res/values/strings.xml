@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tbilisi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">თბილისი</string>
+    <string name="nav_header_subtitle">Тбилиси, Грузия, 41°43′ с. ш. 44°48′ в. д.H</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

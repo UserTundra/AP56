@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_chirch"
+                android:icon="@drawable/chirch2"
+                android:title="Что стоит увидеть"/>
+        <item
+                android:id="@+id/nav_food"
+                android:icon="@drawable/food2"
+                android:title="Где поесть"/>
+        <item
+                android:id="@+id/nav_shopping"
+                android:icon="@drawable/shopping2"
+                android:title="Как потратить деньги"/>
+    </group>
+
+    <item android:title="Не задавайте лишних вопросов">
+        <menu>
+            <item
+                    android:id="@+id/nav_phone"
+                    android:icon="@drawable/phone"
+                    android:title="Контакты"/>
+
+        </menu>
+    </item>
+
+</menu>
